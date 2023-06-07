@@ -1,0 +1,13 @@
+learning_rate: 0.002
+lr_scheduler: true
+lr_step_size: 125
+dropout: 0
+en1_units: 200
+epochs: 500
+batch_size: 200
+
+beta_temp: 0.2
+
+sinkhorn_alpha: 20
+OT_max_iter: 1000
+weight_loss_ECR: 250
