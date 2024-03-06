@@ -1,5 +1,7 @@
 # Code for Effective Neural Topic Modeling with Embedding Clustering Regularization (ICML2023)
 
+## **Check our latest topic modeling toolkit [TopMost](https://github.com/bobxwu/topmost) !**
+
 [ICML 2023](https://arxiv.org/pdf/2306.04217)
 
 <div align="center">
